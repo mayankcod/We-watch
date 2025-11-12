@@ -133,7 +133,7 @@ export default function Sidebar({
             {/* room info */}
             <div className="p-6 border-b border-white/10">
               <h2 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-400 mb-4">
-                Party Sync Watch
+                We Watch Room
               </h2>
 
               {/* room code with copy button */}

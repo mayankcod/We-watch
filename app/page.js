@@ -101,9 +101,9 @@ export default function Home() {
       >
         <div className="text-center mb-8">
           <h1 className="text-4xl sm:text-5xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-400">
-            Party Sync Watch
+            We Watch
           </h1>
-          <p className="text-gray-400">Watch videos together in perfect sync</p>
+          <p className="text-gray-400">Watch videos together</p>
         </div>
 
         <div className="bg-secondary/50 backdrop-blur-lg rounded-2xl shadow-xl p-6 border border-white/10">
